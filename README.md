@@ -13,7 +13,7 @@ Works with most spreadsheet formats including CSV & XLSX
  </ol>
  
  <h2>HOW TO VIDEO HERE:</h2>
- https://youtu.be/Y7BGZopgHJ4
+https://www.youtube.com/watch?v=Y7BGZopgHJ4
  
  <hr>
  
