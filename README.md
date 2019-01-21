@@ -13,7 +13,4 @@ I created this tool because i often needed to quickly add data to my DB provided
  
 
 
-This tool's functioanlity for reading the spreadsheets is based on the PHP Spreadsheest repo and is included with version 1.6.0 as of 1/21/2019. You may choose to update to a newer version if availible.<br>
-https://github.com/PHPOffice/PhpSpreadsheet
-<br>
-Sorry if i didnt cite or include this properly.
+This tool's functioanlity for reading the spreadsheets is based on the PHP Excel Repo (I know its deprecatated but i already have this working so i'm using it.) https://github.com/PHPOffice/PHPExcel
