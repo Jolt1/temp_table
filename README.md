@@ -1,7 +1,9 @@
 # temp_table
 <h2>A quick and easy tool to import a spreadsheet as a table in a MySQL database.</h2><br>
 I created this tool because i often needed to quickly add data to my DB provided by clients in spreadsheets.
-
+<br><br>
+Works with most spreadsheet formats including CSV & XLSX
+<br><br>
 <b>How To use:</b>
 <ol>
   <li>First update db.php with your database's login info. (lines  4-7)</li>
