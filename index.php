@@ -11,6 +11,8 @@ db_open();
 
 if(isset($_POST['import']) ){
 	$name_table = mp($_POST['name_table']);
+	$name_table = trim($name_table);
+	$name_table = str_replace(" ", "_", $name_table);
 	
 	if(isset($_FILES['userFile']['tmp_name']) && file_exists($_FILES['userFile']['tmp_name'])){
 	foreach($_POST as $name => $value){$$name = mp($value);}
