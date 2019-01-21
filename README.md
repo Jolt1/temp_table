@@ -9,7 +9,7 @@ Works with most spreadsheet formats including CSV & XLSX
   <li>First update db.php with your database's login info. (lines  4-7)</li>
   <li>Launch index.php on your server</li>
   <li>Browse for your spreadsheet file & Upload</li>
-  <li>Your Done! your new tabel is ready to use.</li>
+  <li>Your Done! your new table is ready to use.</li>
  </ol>
  
  <h2>HOW TO VIDEO HERE:</h2>
@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=Y7BGZopgHJ4
  
  <hr>
  
-This tool's functioanlity for reading the spreadsheets is based on the PHP Excel Repo (I know its deprecated but i already have this working so i'm using it.) https://github.com/PHPOffice/PHPExcel
+This tool's functionality for reading the spreadsheets is based on the PHP Excel Repo (I know its deprecated but i already have this working so i'm using it.) https://github.com/PHPOffice/PHPExcel
