@@ -15,4 +15,6 @@ Works with most spreadsheet formats including CSV & XLSX
  <h2>HOW TO VIDEO HERE:</h2>
  https://youtu.be/Y7BGZopgHJ4
  
+ <hr>
+ 
 This tool's functioanlity for reading the spreadsheets is based on the PHP Excel Repo (I know its deprecatated but i already have this working so i'm using it.) https://github.com/PHPOffice/PHPExcel
