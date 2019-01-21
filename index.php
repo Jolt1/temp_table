@@ -98,7 +98,7 @@ if(isset($_POST['import']) ){
 			<div style="float:left;">
 				<label for="name_table">Table Note:</label>
                 <input type="text" name="name_table" id="name_table">
-                <span style="font-size: 12px; color: #9C9B9B;"><br>(Optional. Will be apended to the end of your table name)</span><br><br>
+                <span style="font-size: 12px; color: #9C9B9B;"><br>(Optional. Will be apended to the end of your table name so keep it clean and simple)</span><br><br>
 
               <input name="userFile" id = "userFile" type="file" ><br /><br />
 			<input name="import" id ="import" type="submit" class="btn1"  value="Import">
